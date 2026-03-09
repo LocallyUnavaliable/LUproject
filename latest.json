@@ -1,5 +1,6 @@
 {
-    "filename": "V8R2.asi",
-    "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R2.asi",
-    "changelog": "- Initial release"
+  "version": "V8.1",
+  "filename": "V8BV1.asi",
+  "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8BV1.asi",
+  "changelog": "- Fixed bugs\n- New features"
 }
