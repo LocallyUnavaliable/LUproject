@@ -1,5 +1,5 @@
 {
-  "filename": "V8R5.asi",
-  "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R5.asi",
-  "changelog": "Removed skip this version option."
+  "filename": "V8R6.asi",
+  "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R6.asi",
+  "changelog": "Fixed bug with auto updates."
 }
