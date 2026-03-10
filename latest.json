@@ -1,5 +1,5 @@
 {
-  "filename": "V8R6.asi",
-  "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R6.asi",
-  "changelog": "Fixed bug with auto updates."
+  "filename": "V8R6.1.asi",
+  "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R6.1.asi",
+  "changelog": "Imgui menu update. imgui  will now display LOCALLYUNAVALIABLE at the top."
 }
