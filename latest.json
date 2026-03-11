@@ -1,5 +1,5 @@
 {
   "filename": "V8R6A5.asi",
   "download_url": "https://raw.githubusercontent.com/LocallyUnavaliable/LUproject/main/V8R6A5.asi",
-  "changelog": "Imgui menu update. imgui  will now display LOCALLYUNAVALIABLE at the top."
+  "changelog": "Added new esp features bone ESP, Vehicle esp, Tracers, Ped Label."
 }
